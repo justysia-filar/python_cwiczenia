@@ -4,7 +4,7 @@
 
 import random
 
-input("nacisnij ENTER, aby zlamac ciasteczko")
+input("nacisnij ENTER, ciasteczko")
 print("trrrrach\noto twoja wrozba:")
 
 wrozba = random.randint(1,5)
